@@ -2,4 +2,4 @@
 <br/>
 First git repo
 <br/>
-Auther : Arvind
+Auther : Arvind Maurya
